@@ -21,6 +21,7 @@ Simple Escrow for Laravel, with mysql and  php-fpm
 + If you need to restart after modifying *docker-compose.yml* restart with `docker-compose down` and `docker-compose up -d`
 
 # Images
++ php:7
 + mysql:5.7
 + phpmyadmin/phpmyadmin
 
